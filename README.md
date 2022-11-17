@@ -108,6 +108,7 @@
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
 | [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
 | [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
+| [위대한상상(요기요)](#위대한상상상 | O | O | [채용공고](https://www.wesang.com/career) |
 
 ## 기타 복지
 
